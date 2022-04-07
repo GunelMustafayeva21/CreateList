@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\ListTask\ListTask\bin\Debug\ListTask.exe.config
+C:\Users\Hp\source\repos\ListTask\ListTask\bin\Debug\ListTask.exe
+C:\Users\Hp\source\repos\ListTask\ListTask\bin\Debug\ListTask.pdb
+C:\Users\Hp\source\repos\ListTask\ListTask\obj\Debug\ListTask.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ListTask\ListTask\obj\Debug\ListTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\ListTask\ListTask\obj\Debug\ListTask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ListTask\ListTask\obj\Debug\ListTask.exe
+C:\Users\Hp\source\repos\ListTask\ListTask\obj\Debug\ListTask.pdb
